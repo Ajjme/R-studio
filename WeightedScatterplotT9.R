@@ -89,9 +89,7 @@ final_ipums_epa <- mutate(final_ipums_epa, bad_days=unhealthy_for_sensitive_grou
 #  theme(panel.background = element_rect(fill="grey"))
 
 
-#save data
 
-#write_csv(final_ipums_epa, "~/Google Drive/big-enviro/data/pollution_poverty_california_2018.csv")
 
 #      MAPS
 
